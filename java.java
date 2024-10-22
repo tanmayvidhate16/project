@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class RockPaperScissors {
+public class java {
 
     public static String getComputerChoice() {
         String[] choices = {"rock", "paper", "scissors"};
